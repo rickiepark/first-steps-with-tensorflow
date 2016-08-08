@@ -1,0 +1,14 @@
+name: first-steps-with-tensorflow
+dependencies:
+- python=3
+- ipython
+- ipython-notebook
+- scipy
+- numpy
+- pandas
+- matplotlib
+- scikit-learn
+- seaborn
+- pip:
+    - keras
+    - watermark
