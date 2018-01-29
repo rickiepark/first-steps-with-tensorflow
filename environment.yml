@@ -10,5 +10,4 @@ dependencies:
 - scikit-learn
 - seaborn
 - pip:
-    - keras
     - watermark
